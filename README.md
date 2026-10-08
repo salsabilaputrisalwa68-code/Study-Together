@@ -1,2 +1,2 @@
-# Pencatat-Keuangan-Pribadi
-Pencatat Keuangan Pribadi dirancang untuk membantu orang mengelola uang harian.
+# Study Together
+Aplikasi StudyTogether dikembangkan dengan tujuan mempertemukan mahasiswa berdasarkan kesamaan mata kuliah untuk membentuk kelompok belajar yang efektif.
